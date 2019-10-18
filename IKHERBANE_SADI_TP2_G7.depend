@@ -1,0 +1,229 @@
+# depslib dependency file v1.0
+1091557152 source:c:\users\dual\desktop\ikherbane_sadi_tp2_g7\programmation en c\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1091557152 c:\users\dual\desktop\ikherbane_sadi_tp2_g7\programmation en c\conio2.h
+	<conio.h>
+	<windows.h>
+
+1400872006 source:c:\users\dual\desktop\ikherbane_sadi_tp2_g7\programmation en c\fonction_tp2.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"Fonction_TP2.h"
+
+1400871876 c:\users\dual\desktop\ikherbane_sadi_tp2_g7\programmation en c\fonction_tp2.h
+
+1400872342 source:c:\users\dual\desktop\ikherbane_sadi_tp2_g7\programmation en c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"Fonction_TP2.h"
+
+1400869783 source:c:\users\dual\desktop\ikherbane_sadi_tp2_g7\programmation en c\modele_tp2.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"Fonction_TP2.h"
+	"Modele_TP2.h"
+
+1400871862 c:\users\dual\desktop\ikherbane_sadi_tp2_g7\programmation en c\modele_tp2.h
+
+1091557152 source:g:\tp\ikherbane_sadi_tp2_g7\programmation en c\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1091557152 g:\tp\ikherbane_sadi_tp2_g7\programmation en c\conio2.h
+	<conio.h>
+	<windows.h>
+
+1401069522 source:g:\tp\ikherbane_sadi_tp2_g7\programmation en c\fonction_tp2.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"Fonction_TP2.h"
+
+1401070586 g:\tp\ikherbane_sadi_tp2_g7\programmation en c\fonction_tp2.h
+
+1401070224 source:g:\tp\ikherbane_sadi_tp2_g7\programmation en c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"Fonction_TP2.h"
+
+1400869784 source:g:\tp\ikherbane_sadi_tp2_g7\programmation en c\modele_tp2.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"Fonction_TP2.h"
+	"Modele_TP2.h"
+
+1400871864 g:\tp\ikherbane_sadi_tp2_g7\programmation en c\modele_tp2.h
+
+1091557152 source:f:\tp\ikherbane_sadi_tp2_g7\programmation en c\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1091557152 f:\tp\ikherbane_sadi_tp2_g7\programmation en c\conio2.h
+	<conio.h>
+	<windows.h>
+
+1400872008 source:f:\tp\ikherbane_sadi_tp2_g7\programmation en c\fonction_tp2.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"Fonction_TP2.h"
+
+1400871878 f:\tp\ikherbane_sadi_tp2_g7\programmation en c\fonction_tp2.h
+
+1400873282 source:f:\tp\ikherbane_sadi_tp2_g7\programmation en c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"Fonction_TP2.h"
+
+1400869784 source:f:\tp\ikherbane_sadi_tp2_g7\programmation en c\modele_tp2.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"Fonction_TP2.h"
+	"Modele_TP2.h"
+
+1400871864 f:\tp\ikherbane_sadi_tp2_g7\programmation en c\modele_tp2.h
+
+1091557152 source:h:\tp\ikherbane_sadi_tp2_g7\programmation en c\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1091557152 h:\tp\ikherbane_sadi_tp2_g7\programmation en c\conio2.h
+	<conio.h>
+	<windows.h>
+
+1401008562 source:h:\tp\ikherbane_sadi_tp2_g7\programmation en c\fonction_tp2.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"Fonction_TP2.h"
+
+1400871878 h:\tp\ikherbane_sadi_tp2_g7\programmation en c\fonction_tp2.h
+
+1400873282 source:h:\tp\ikherbane_sadi_tp2_g7\programmation en c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"Fonction_TP2.h"
+
+1400869784 source:h:\tp\ikherbane_sadi_tp2_g7\programmation en c\modele_tp2.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"Fonction_TP2.h"
+	"Modele_TP2.h"
+
+1400871864 h:\tp\ikherbane_sadi_tp2_g7\programmation en c\modele_tp2.h
+
+1091557152 source:h:\programmation en c\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1091557152 h:\programmation en c\conio2.h
+	<conio.h>
+	<windows.h>
+
+1401070766 source:h:\programmation en c\fonction_tp2.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"Fonction_TP2.h"
+
+1401070586 h:\programmation en c\fonction_tp2.h
+
+1401070224 source:h:\programmation en c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"Fonction_TP2.h"
+
+1400869784 source:h:\programmation en c\modele_tp2.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"Fonction_TP2.h"
+	"Modele_TP2.h"
+
+1400871864 h:\programmation en c\modele_tp2.h
+
+1091557152 source:g:\programmation en c\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1091557152 g:\programmation en c\conio2.h
+	<conio.h>
+	<windows.h>
+
+1401098046 source:g:\programmation en c\fonction_tp2.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"Fonction_TP2.h"
+
+1401070586 g:\programmation en c\fonction_tp2.h
+
+1401070224 source:g:\programmation en c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"Fonction_TP2.h"
+
+1400869784 source:g:\programmation en c\modele_tp2.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"Fonction_TP2.h"
+	"Modele_TP2.h"
+
+1400871864 g:\programmation en c\modele_tp2.h
+
